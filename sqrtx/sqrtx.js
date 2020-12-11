@@ -1,7 +1,18 @@
 /**
  * @param {number} x
  * @return {number}
+ 
+ 
+ l   4
+ r = 2
+ m = 3
+ 9
+ 
+ 
+ 
  */
+​
+​
 var mySqrt = function(x) {
     let L = 0, R = x;
     while(L <= R) {
